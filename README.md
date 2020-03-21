@@ -1,9 +1,6 @@
 # face-shield
 Open Source Face Shield for Covid-19
 
-<p align="center">
-<b>IMPORTANT_ I did not design this from scratch- see orginal design below I just need a place to track my versions. Open source Covid-19 face shield for medical and public use (splash shield NOT mask) reference files tips and tricks I find along the way</b><br>
-
 ### ORIGINAL DESIGN Protective Visor by 3DVerkstan 
 
  https://www.youmagine.com/designs/protective-visor-by-3dverkstan
@@ -12,7 +9,10 @@ Open Source Face Shield for Covid-19
 
  https://www.youmagine.com/users/sign_in?redirect_back=true
  
-<p align="center"><img src="https://github.com/MKme/face-shield/blob/master/Photos/2.JPG"/>
+<p align="center">
+<b>IMPORTANT_ I did not design this from scratch- see orginal design below I just need a place to track my versions. Open source Covid-19 face shield for medical and public use (splash shield NOT mask) reference files tips and tricks I find along the way</b><br>
+
+ <p align="center"><img src="https://github.com/MKme/face-shield/blob/master/Photos/2.JPG"/>
 My Prototype
   <br>
 <br>🐦 <a href="https://twitter.com/mkmeorg">Twitter</a>
