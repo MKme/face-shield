@@ -22,7 +22,7 @@ Chat with Me: <a href="https://discord.gg/j9S4Fgv">Discord</a></b>
 </p>
 
 ### Full Video Coming here:
-TBD
+http://youtube.com/mkmeorg
 
 ### BUY THE SUPPLIES HERE:
 
