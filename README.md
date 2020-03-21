@@ -37,5 +37,15 @@ A4-standard-sheetErics8.5-11justholes- This is JUST holes and can be used for so
 
 Letter-sized-shield-for-A4-frame-lasercut .75mm outward from centrebothsides- New version with bevels and holes spaced both sides 0.75mm outboard
 
+### Instructions:
+
+Open my SVG in K40 whisperer and use top section as it was made with version 0.92:
+
+ <p align="center"><img src="https://github.com/MKme/face-shield/blob/master/Photos/K40.PNG"/>
+
+Cut!
+Or use a paper punch and make them manually. 
+
+
 
 
