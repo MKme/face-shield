@@ -43,7 +43,12 @@ Open my SVG in K40 whisperer and use top section as it was made with version 0.9
 
  <p align="center"><img src="https://github.com/MKme/face-shield/blob/master/Photos/K40.PNG"/>
 
-Cut!
+I have already done the correct coloration for Vector cut:
+
+ <p align="center"><img src="https://github.com/MKme/face-shield/blob/master/Photos/3.PNG"/>
+ 
+Clcik Vector Cut 
+
 Or use a paper punch and make them manually. 
 
 
