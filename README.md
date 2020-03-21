@@ -5,10 +5,7 @@ Open Source Face Shield for Covid-19
 
  https://www.youmagine.com/designs/protective-visor-by-3dverkstan
  
- Follow Erik Cederberg Here: 
 
- https://www.youmagine.com/users/sign_in?redirect_back=true
- 
 <p align="center">
 <b>IMPORTANT_ I did not design this from scratch- see orginal design above I just need a place to track my versions and modifications to the files. Open source Covid-19 face shield for medical and public use (splash shield NOT mask) reference files tips and tricks I find along the way</b><br>
 
