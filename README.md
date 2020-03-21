@@ -32,6 +32,7 @@ Acetate Sheets: https://amzn.to/2xQYryW
 
 ### Version notes:
 A4-standard-sheetErics8.5-11- This was first version of full bevels and holes proper for North America paper size
+
 A4-standard-sheetErics8.5-11justholes- This is JUST holes and can be used for someone not wanting to bevel the edges
 
 Letter-sized-shield-for-A4-frame-lasercut .75mm outward from centrebothsides- New version with bevels and holes spaced both sides 0.75mm outboard
