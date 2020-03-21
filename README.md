@@ -9,7 +9,7 @@ Open Source Face Shield for Covid-19
 <p align="center">
 <b>IMPORTANT_ I did not design this from scratch- see orginal design above I just need a place to track my versions and modifications to the files. Open source Covid-19 face shield for medical and public use (splash shield NOT mask) reference files tips and tricks I find along the way</b><br>
 
- <p align="center"><img src="https://github.com/MKme/face-shield/blob/master/Photos/5..JPG"/>
+ <p align="center"><img src="https://github.com/MKme/face-shield/blob/master/Photos/5.JPG"/>
 My Prototype
   <br>
 <br>🐦 <a href="https://twitter.com/mkmeorg">Twitter</a>
