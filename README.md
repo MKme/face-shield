@@ -21,7 +21,11 @@ Website, Forum and store are at http://mkme.org <br>
 Chat with Me: <a href="https://discord.gg/j9S4Fgv">Discord</a></b>
 </p>
 
-### Full Video Coming here:
+### Overview Video:
+https://youtu.be/8bWaJXSb-Fw
+
+### FULL Video Tutorial here on Friday:
+
 http://youtube.com/mkmeorg
 
 ### BUY THE SUPPLIES HERE:
