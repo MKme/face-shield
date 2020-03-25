@@ -36,6 +36,8 @@ http://youtube.com/mkmeorg
 
 Acetate Sheets: https://amzn.to/2xQYryW
 
+More acetate sheet options: https://amzn.to/3brzXuS
+
 ### Version notes:
 A4-standard-sheetErics8.5-11- This was first version of full bevels and holes proper for North America paper size
 
