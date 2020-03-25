@@ -30,7 +30,9 @@ http://youtube.com/mkmeorg
 
 ### BUY THE SUPPLIES HERE:
 
-Filament (AMZ3D) https://amzn.to/2vE4upU
+3D Printer (My current fav) :https://amzn.to/2wFEMlt
+
+3D Printer Filament (AMZ3D) https://amzn.to/2vE4upU
 
 Acetate Sheets: https://amzn.to/2xQYryW
 
