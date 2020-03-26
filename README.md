@@ -50,6 +50,11 @@ Letter-sized-shield-for-A4-frame-lasercut .75mm outward from centrebothsides- Ne
 Split versions added by Tekmason which can be produced on 3D printers that have smaller build plates
 <img src="https://github.com/MKme/face-shield/blob/master/STLs/SplitDesign/Photo01.jpg" alt="covid19mask" style="width:100px;height:200px;">
 
+Get the stacked version here so you can print MANY at a time without restarting your printer:
+https://github.com/CarlosGS/facemask-print-vertical
+
+<img src="https://github.com/MKme/face-shield/blob/master/STLs/SplitDesign/stacked.png" alt="covid19mask" style="width:100px;height:200px;">
+
 ### Instructions (40 watt lasercutter):
 
 Open my SVG in K40 whisperer and use top section as it was made with version 0.92:
