@@ -53,7 +53,7 @@ Split versions added by Tekmason which can be produced on 3D printers that have 
 Get the stacked version here so you can print MANY at a time without restarting your printer:
 https://github.com/CarlosGS/facemask-print-vertical
 
-<img src="https://github.com/MKme/face-shield/blob/master/STLs/SplitDesign/stacked.png" alt="covid19mask" style="width:100px;height:200px;">
+<img src="https://github.com/MKme/face-shield/blob/master/Photos/stacked%20.PNG" alt="covid19mask" style="width:100px;height:200px;">
 
 ### Instructions (40 watt lasercutter):
 
