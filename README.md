@@ -45,6 +45,9 @@ A4-standard-sheetErics8.5-11justholes- This is JUST holes and can be used for so
 
 Letter-sized-shield-for-A4-frame-lasercut .75mm outward from centrebothsides- New version with bevels and holes spaced both sides 0.75mm outboard
 
+Splite versions added by Tekmason These STL files can be produced on 3D printers that have smaller build plates
+<img src="https://github.com/MKme/face-shield/blob/master/STLs/SplitDesign/Photo01.jpg" alt="covid19mask" style="width:500px;height:600px;">
+
 ### Instructions:
 
 Open my SVG in K40 whisperer and use top section as it was made with version 0.92:
