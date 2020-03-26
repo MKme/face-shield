@@ -7,7 +7,9 @@ Open Source Face Shield for Covid-19
  
 
 <p align="center">
-<b>IMPORTANT_ I did not design this from scratch- see orginal design above I just need a place to track my versions and modifications to the files. Open source Covid-19 face shield for medical and public use (splash shield NOT mask) reference files tips and tricks I find along the way</b><br>
+<b>IMPORTANT_ I did not design this from scratch- see orginal design above I just need a place to track my versions and modifications to the files. Original .stl files are found above- split version by TekMason below. Hit @erikcederb on twitter and tell him thanks if you use this too. 
+
+Open source Covid-19 face shield for medical and public use (splash shield NOT mask) reference files tips and tricks I find along the way</b><br>
 
  <p align="center"><img src="https://github.com/MKme/face-shield/blob/master/Photos/5.jpg"/>
 My Prototype using Visor_frame_v10.stl
@@ -48,7 +50,7 @@ Letter-sized-shield-for-A4-frame-lasercut .75mm outward from centrebothsides- Ne
 Split versions added by Tekmason which can be produced on 3D printers that have smaller build plates
 <img src="https://github.com/MKme/face-shield/blob/master/STLs/SplitDesign/Photo01.jpg" alt="covid19mask" style="width:100px;height:200px;">
 
-### Instructions:
+### Instructions (40 watt lasercutter):
 
 Open my SVG in K40 whisperer and use top section as it was made with version 0.92:
 
