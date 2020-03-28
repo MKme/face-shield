@@ -26,7 +26,8 @@ Chat with Me: <a href="https://discord.gg/j9S4Fgv">Discord</a></b>
 ### Overview Video:
 https://youtu.be/8bWaJXSb-Fw
 
-### FULL Video Tutorial here on Friday:
+### FULL Video Tutorial:
+https://youtu.be/RJtRBTxELZk
 
 http://youtube.com/mkmeorg
 
