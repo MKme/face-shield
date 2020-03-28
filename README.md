@@ -35,7 +35,7 @@ https://youtu.be/RJtRBTxELZk
 
 3D Printer Filament (AMZ3D) https://amzn.to/2vE4upU
 
-Binding Covers (7 mil PVC sheet for shield) https://amzn.to/2Jk5SBt
+Binding Covers (7 mil PVC sheet for shield- Don't laser cut PVC though) https://amzn.to/2Jk5SBt
 
 Acetate Sheets (4.5 mil option): https://amzn.to/2xQYryW
 
